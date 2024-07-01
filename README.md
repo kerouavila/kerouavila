@@ -1,16 +1,17 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kerouavila/kerouavila/blob/main/github_readme.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/kerouavila/kerouavila/blob/main/github_readme.png?raw=true">
+ <img alt="Pixel art de capa do readme" src="YOUR-DEFAULT-IMAGE" align="right">
+</picture>
 
-<!--
-**kerouavila/kerouavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, me chamo Kerou 👋
 
-Here are some ideas to get you started:
+<p align="left"> Sou ilustradora, Product Designer e estou estudando desenvolvimento Front-End desde janeiro de 2024. </p>
+<p align="left"> 🖌️ Gosto de desenhar, fazer pixel art e visitar museus. </p>
+<p align="left"> 👋 Fique a vontade para entrar em contato pelos links abaixo: </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#" title="E-mail">
+  <img src="https://img.shields.io/badge/-Gmail-B260FF?style=flat-square&labelColor=B260FF&logo=gmail&logoColor=white&link=kerouavila@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-3190FF?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/kerouavila/)" alt="LinkedIn"/></a>
