@@ -7,8 +7,8 @@
 ### Olá, me chamo Kerou 👋
 
 <p align="left"> Sou ilustradora, Product Designer e estou estudando desenvolvimento Front-End desde janeiro de 2024. </p>
-<p align="left"> 🖌️ Gosto de desenhar, fazer pixel art e visitar museus. </p>
-<p align="left"> 👋 Fique a vontade para entrar em contato pelos links abaixo: </p>
+<p align="left"> 🖌️ Gosto de desenhar e fazer pixel art. </p>
+<p align="left"> 👋 Entre em contato pelos links: </p>
 
 <p align="left">
   <a href="#" title="E-mail">
